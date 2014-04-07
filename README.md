@@ -1,4 +1,1 @@
-avoscloudblog
-=============
-
-avos cloud blog
+Cloud code project for nodejsdemo. https://cn.avoscloud.com/docs/cloud_code_guide.html
