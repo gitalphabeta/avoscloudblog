@@ -13,7 +13,7 @@ app.get('/hello', function(req, res) {
 });
 
 app.get('/', function(req, res) {
-  res.render('home', { message: 'Congrats, avos mmd!' });
+  res.render('hello', { message: 'Congrats, avos mmd!' });
 });
 
 
